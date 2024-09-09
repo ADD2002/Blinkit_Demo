@@ -1,7 +1,7 @@
-Grocery Sales Data Analysis Explanation
-Purpose
+<h1>Grocery Sales Data Analysis Explanation</h1>
+<h2>Purpose</h2>
 The primary goal of this project is to analyze grocery sales data to uncover insights that can help stakeholders understand sales performance across various dimensions, such as outlet types, locations, and item categories. By leveraging data visualization techniques, the project aims to present these insights in a clear and actionable manner.
-Key Components
+<h2>Key Components</h2>
 Data Visualization:
 The project employs various visualization techniques, including bar charts, pie charts, and line charts, to effectively illustrate sales performance metrics.
 A donut chart is specifically used to show the distribution of item fat content, providing a visual representation of health-related product categories.
